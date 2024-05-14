@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Tukar Poin</name>
+   <tag></tag>
+   <elementGuidId>bd4483ee-2bc8-483e-bed3-4ae467086222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=''])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbf37159-212a-4bb8-9a53-e0fb1095d67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/klub-generasi-maju/detailmaxxreward?id=T0RVNE1UUTU=</value>
+      <webElementGuid>1a168827-38b8-485c-a898-c31c46785d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>d205b573-86e4-4c48-a4e2-db30f9d0bed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tukar Poin</value>
+      <webElementGuid>0506a125-47cd-40df-a212-c071a0fab8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reward&quot;)/div[@class=&quot;listMaxxReward&quot;]/div[@class=&quot;maxx__card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;content__bottom&quot;]/div[2]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>f96981f2-2b44-4e54-97f6-6591c3fc65b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=''])[7]</value>
+      <webElementGuid>2e198295-e83d-4a4e-980f-cfe57e057aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reward']/div/div[8]/div/div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>1d7533ee-1ef2-4dcc-ae1a-f1656394e7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tukar Poin')])[8]</value>
+      <webElementGuid>591bae9a-7855-4db2-b91a-9c9f528ed7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puzzle Intelligence'])[1]/following::a[1]</value>
+      <webElementGuid>c1427983-c40c-4fb8-ad43-a1e732473d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tukar Poin'])[9]/following::a[1]</value>
+      <webElementGuid>78cc21ba-9d2f-44e4-950a-2197dcac078f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirin Sauce pan'])[1]/preceding::a[1]</value>
+      <webElementGuid>5c419bd5-74eb-4587-a4b8-c12e4382ef41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tukar Poin'])[11]/preceding::a[1]</value>
+      <webElementGuid>342d5e15-bb0f-42b2-97d4-695ab5751154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/klub-generasi-maju/detailmaxxreward?id=T0RVNE1UUTU=')]</value>
+      <webElementGuid>302aabcf-d90c-4cb7-9b3c-31a0514b1d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>ce1bf7dc-8a6c-42cb-8cef-e5c1ab4df75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/klub-generasi-maju/detailmaxxreward?id=T0RVNE1UUTU=' and (text() = 'Tukar Poin' or . = 'Tukar Poin')]</value>
+      <webElementGuid>22bdbc6c-3a0e-40fe-bf7f-a9c80a197c4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

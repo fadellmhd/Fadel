@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>e749ac69-130a-4c39-b473-48f928eb662e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.font-bold.font-capitalize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reward']/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65415cb5-a8e5-436d-83b4-9b3187bb0860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/klub-generasi-maju/catalog#reward</value>
+      <webElementGuid>3795eb02-2b89-4b3d-a492-1e9a9953b125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary font-bold font-capitalize</value>
+      <webElementGuid>c63fd24d-d4c1-4dab-85c8-bc9066fec4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Selengkapnya
+                                
+                            </value>
+      <webElementGuid>87b0335d-a0f6-447b-bf11-4b4bf392d90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reward&quot;)/div[@class=&quot;div-center text-center&quot;]/a[@class=&quot;btn btn-primary font-bold font-capitalize&quot;]</value>
+      <webElementGuid>78080d83-b6be-4b2c-b9d4-0304e91f23e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reward']/div[2]/a</value>
+      <webElementGuid>01f88176-1fb6-4b05-bbd7-374fe42157e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selengkapnya')]</value>
+      <webElementGuid>f30113cf-2e46-4102-9a33-b630e2587ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tukar Poin'])[8]/following::a[1]</value>
+      <webElementGuid>40810f30-2dcd-4b9d-b222-081a31a1c5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher GoPay Rp50.000'])[1]/following::a[2]</value>
+      <webElementGuid>04afefde-2f66-41b7-9aa2-e528a6e107ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+      <webElementGuid>f33aff03-7a7c-4ec5-a4c8-67ccc665b27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::a[1]</value>
+      <webElementGuid>435f6d59-e32e-4a06-9ac1-494e58d1a586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selengkapnya']/parent::*</value>
+      <webElementGuid>5d47419a-fd5e-44b8-b96a-5f6aafcc6355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/klub-generasi-maju/catalog#reward')]</value>
+      <webElementGuid>7d268e35-c9d1-4981-b927-d5884549c436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>e174a94b-9fce-452e-ba0d-74e3edd5aa77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/klub-generasi-maju/catalog#reward' and (text() = '
+                                Selengkapnya
+                                
+                            ' or . = '
+                                Selengkapnya
+                                
+                            ')]</value>
+      <webElementGuid>27bfc05c-f081-42dd-997d-a67ffe6ca59d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

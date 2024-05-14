@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hiding Password</name>
+   <tag></tag>
+   <elementGuidId>42b8566e-db34-436a-9d1b-4c2b2469a837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye-slash.toggle-password-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-login']/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bff8ebca-1102-45c7-9bdb-656e75c152e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye-slash toggle-password-login</value>
+      <webElementGuid>f37207ed-1d17-4503-a546-4f0f13bdd2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>29cb83ac-c3cc-416f-92dd-631f18e7caa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-login&quot;)/div[@class=&quot;form-group&quot;]/span[@class=&quot;eye&quot;]/i[@class=&quot;fa fa-eye-slash toggle-password-login&quot;]</value>
+      <webElementGuid>0f23d356-11ad-4f61-98de-a154af037230</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-login']/div[3]/span/i</value>
+      <webElementGuid>568667a7-7104-4feb-8b99-5b34d5549444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+      <webElementGuid>d708e334-66e3-4eaa-8670-8d824851e6ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

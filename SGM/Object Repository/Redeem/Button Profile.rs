@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Profile</name>
+   <tag></tag>
+   <elementGuidId>82bbd40a-641f-4b8e-be96-efc89e985b6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.hidden-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dropdownMenuProfile']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>974a9357-7297-47da-8f8a-2dfe4a4fb444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://generasi.eydendigital.co.id/klubbundasgm/static/img/bunda-circle-red.png</value>
+      <webElementGuid>6c9699d4-1870-4ca2-9fd3-77de93ed0ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-xs</value>
+      <webElementGuid>37644a1a-1604-4b57-8553-96dd9fd0a229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Image User</value>
+      <webElementGuid>10ad1d62-a5fd-423a-8679-dc7f66eaa166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Image User</value>
+      <webElementGuid>8744646f-9ded-4f9b-9fdf-c5f591fdb36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/nav[@class=&quot;navbar navbar-default navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;wrap wrap-menu&quot;]/div[@class=&quot;upper-menu hidden-xs&quot;]/div[@class=&quot;menus akun&quot;]/div[@class=&quot;dropdown&quot;]/a[@id=&quot;dropdownMenuProfile&quot;]/img[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>5947cd19-13a9-49be-9f93-a322984532ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dropdownMenuProfile']/img</value>
+      <webElementGuid>9d35ec66-ace2-46d0-80e2-afd91d3b84b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Image User']</value>
+      <webElementGuid>2c5e5178-3226-461d-996e-f9b5436c94d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>e3418598-c820-414a-9d9d-b4fc6ba1e88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://generasi.eydendigital.co.id/klubbundasgm/static/img/bunda-circle-red.png' and @title = 'Image User' and @alt = 'Image User']</value>
+      <webElementGuid>f536f332-e071-4f65-9941-e1731b12a513</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
